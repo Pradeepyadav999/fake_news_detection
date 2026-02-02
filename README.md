@@ -4,7 +4,8 @@ This project is a Machine Learning-based Fake News Detection web application bui
 
 ## 🚀 Features
 - Detects whether a news article is **Fake or Real**
-- Uses **Logistic Regression**
+- Uses **Logistic Regression****Random Forest****Naive Bayes**
+
 - TF-IDF Vectorization
 - Simple & interactive Streamlit UI
 
